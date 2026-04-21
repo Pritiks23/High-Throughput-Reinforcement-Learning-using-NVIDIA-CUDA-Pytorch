@@ -1,5 +1,6 @@
-![Reinforcement Learning in ML](https://media.geeksforgeeks.org/wp-content/uploads/20250903150649221420/Reinforecement-Learning-in-ML.webp)
-
+<p align="center">
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20250903150649221420/Reinforecement-Learning-in-ML.webp" alt="Reinforcement Learning in ML" />
+</p>
 # FP8-Style RL Training Demo (Actor-Critic + Custom Environment)
 
 ---
